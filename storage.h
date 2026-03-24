@@ -7,7 +7,7 @@
 
 class DiskStorage {
 private:
-    static const int BUCKET_COUNT = 1009; // Prime number
+    static const int BUCKET_COUNT = 17; // Prime number less than 20 file limit
     static const int MAX_KEY_LEN = 64;
 
     struct Entry {
