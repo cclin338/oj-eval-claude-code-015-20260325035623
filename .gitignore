@@ -1,0 +1,13 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+code
+*.o
+*.db
+*.bin
+*.idx
+*.dat
+test_input.txt
+test_output.txt
+temp_*
